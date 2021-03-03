@@ -1,0 +1,5 @@
+{
+  "name": "${client_name}",
+  "accountID": "${account_id}",
+  "ammount": "${amount}"
+}
